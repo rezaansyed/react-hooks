@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"><a href="https://epicreact.dev/hooks">🎣 React Hooks 🚀 EpicReact.Dev</a></h1>
   <strong>
-    There are better patterns and practices that are an entirely new approach to
+    There are much better patterns and practices that are an entirely new approach to
     developing components and managing state in your React applications.
   </strong>
   <p>
